@@ -61,7 +61,7 @@ export function Header() {
         <Flex align="center">
           <Box mr="4" textAlign="right">
             <Text>Rodrigo Mesquita</Text>
-            <Text color="gray.300" fontSize="sm">
+            <Text color="gray.300" fontSize="small">
               rodrigo.mesquita96@hotmail.com
             </Text>
           </Box>
